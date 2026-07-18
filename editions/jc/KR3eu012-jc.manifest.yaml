@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eu012_000-jc.yaml, hash: 'sha256:3f1b7281d13ad79ca87580341d7fa58c58e872132c0f14fde6cec0edc34e48e4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eu012_000-jc.markers.yaml, hash: 'sha256:0fc8814c911ea9725ac78bae88c8b9cdf5f529b25719b02b3c122dfacf3853d8'}
+  - {seq: 0, role: markers, filename: assets/KR3eu012_000-jc.markers.yaml, hash: 'sha256:118630b758973ad6f2cc0254cb3f6a3bed628e8b2d89d27c253cdc841644dfb4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2081,4 +2081,4 @@ table_of_contents:
   label: 蟲
   type: section
   level: 2
-hash: sha256:76694d1640b4ebe23eba6f9f7c554c4dde6bf669194b23727f405140ab3fefd9
+hash: sha256:64249e6c3300950460219274e87e533f7cffb961ffa7f255b2788e357fab38fc
